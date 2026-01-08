@@ -1,16 +1,18 @@
 #Tech Stack
 
-Programming Language: Python
+Programming Language:
+Python
 
-Deep Learning Framework: PyTorch
+Deep Learning Framework: 
+PyTorch
 
-NLP Model: BERT (bert-base-uncased)
+NLP Model: 
+BERT (bert-base-uncased)
 
 Libraries:
-Hugging Face Transformers
-NumPy
-Pandas
-Scikit-learn
+Hugging Face Transformers, NumPy, Pandas, Scikit-learn
 
-Environment: Google Colab / Local (Anaconda)
+Environment: 
+Google Colab / Local (Anaconda)
+
 
